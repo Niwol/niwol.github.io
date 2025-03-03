@@ -1,1 +1,1 @@
-# niwol.github.io
+This is my personal web page. For now a work in progress, I plan to host some games and applications I am making.

@@ -4,6 +4,8 @@ html {
 }
 
 body {
+    flex-direction: column;
+
     width: 800px;
     margin: 50px auto;
     background-color: lightgray;
@@ -17,3 +19,8 @@ h2 {
     margin: 0;
     padding: 20px 0;
 }
+
+/* 
+a {
+    text-decoration: aquamarine;
+} */

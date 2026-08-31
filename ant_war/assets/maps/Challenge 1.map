@@ -1,0 +1,64 @@
+(
+    map_name: "Challenge 1",
+    map_size: (50, 20),
+    max_players: 2,
+    building_infos: {(3): (
+        building_type: House,
+        grid_transform: (
+            size: (3, 3),
+            bottom_left_coord: ((11, 3)),
+        ),
+    ), (0): (
+        building_type: MainBuilding(
+            index: 1,
+        ),
+        grid_transform: (
+            size: (4, 4),
+            bottom_left_coord: ((2, 8)),
+        ),
+    ), (7): (
+        building_type: House,
+        grid_transform: (
+            size: (3, 3),
+            bottom_left_coord: ((45, 4)),
+        ),
+    ), (1): (
+        building_type: MainBuilding(
+            index: 2,
+        ),
+        grid_transform: (
+            size: (4, 4),
+            bottom_left_coord: ((44, 8)),
+        ),
+    ), (6): (
+        building_type: House,
+        grid_transform: (
+            size: (3, 3),
+            bottom_left_coord: ((41, 13)),
+        ),
+    ), (4): (
+        building_type: House,
+        grid_transform: (
+            size: (3, 3),
+            bottom_left_coord: ((15, 9)),
+        ),
+    ), (8): (
+        building_type: House,
+        grid_transform: (
+            size: (3, 3),
+            bottom_left_coord: ((41, 4)),
+        ),
+    ), (5): (
+        building_type: House,
+        grid_transform: (
+            size: (3, 3),
+            bottom_left_coord: ((45, 13)),
+        ),
+    ), (2): (
+        building_type: House,
+        grid_transform: (
+            size: (3, 3),
+            bottom_left_coord: ((11, 15)),
+        ),
+    )},
+)
